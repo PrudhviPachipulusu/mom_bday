@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "../amma2.jpg");
+  ifrm.setAttribute("src", "amma2.jpg");
  // ifrm.style.width = "500px";
   //ifrm.style.height = "500px";
   ifrm.style.border = 'none';
