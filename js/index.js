@@ -294,7 +294,7 @@ function reveal() {
   }
 
   var ifrm = document.createElement("iframe");
-  ifrm.setAttribute("src", "amma2.jpg");
+  ifrm.setAttribute("src", "https://drive.google.com/file/d/18o_2BeI_YOiBKm3-CJoePoseQXLyYfYe/view?usp=sharing");
  // ifrm.style.width = "500px";
   //ifrm.style.height = "500px";
   ifrm.style.border = 'none';
